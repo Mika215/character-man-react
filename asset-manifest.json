@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/character-man-react/static/css/main.c97c892f.css",
+    "main.js": "/character-man-react/static/js/main.cfb2f895.js",
+    "index.html": "/character-man-react/index.html",
+    "main.c97c892f.css.map": "/character-man-react/static/css/main.c97c892f.css.map",
+    "main.cfb2f895.js.map": "/character-man-react/static/js/main.cfb2f895.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c97c892f.css",
+    "static/js/main.cfb2f895.js"
+  ]
+}
